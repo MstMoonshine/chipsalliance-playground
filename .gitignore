@@ -1,0 +1,11 @@
+out/
+.bsp/
+.idea/
+.mill-bin/
+test_run_dir/
+
+# vim misc
+*.orig
+*.swp
+# idea
+.idea_modules
